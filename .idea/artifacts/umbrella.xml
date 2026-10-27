@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="umbrella">
+    <output-path>$PROJECT_DIR$/shared/umbrella/build/libs</output-path>
+    <root id="archive" name="umbrella.jar">
+      <element id="module-output" name="FinPulse.shared.umbrella.androidMain" />
+    </root>
+  </artifact>
+</component>

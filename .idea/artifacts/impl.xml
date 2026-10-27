@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="impl">
+    <output-path>$PROJECT_DIR$/feature/vault/impl/build/libs</output-path>
+    <root id="archive" name="impl.jar">
+      <element id="module-output" name="FinPulse.feature.vault.impl.androidMain" />
+    </root>
+  </artifact>
+</component>

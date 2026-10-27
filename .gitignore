@@ -1,0 +1,27 @@
+# Gradle & Kotlin Multiplatform caches / build outputs
+.gradle/
+**/build/
+.kotlin/
+build-logic/.gradle/
+build-logic/.kotlin/
+
+# Local environment configuration
+local.properties
+
+# Android Studio / IntelliJ IDEA caches & local state
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+.idea/deviceManager.xml
+*.iml
+*.hprof
+
+# macOS / Xcode generated files
+.DS_Store
+*.xcuserdata
+*.xcworkspace
+DerivedData/
